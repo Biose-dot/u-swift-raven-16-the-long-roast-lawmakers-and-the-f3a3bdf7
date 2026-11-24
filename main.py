@@ -7,7 +7,7 @@ Deterministic, stdlib only, no network.
 """
 import os
 
-ENTRY = "The committee that regulates AI, crypto, and the entire internet spent three hours debating a bill called 'The Future of Technology,' then adjourned because nobody in the room could save the final draft as a PDF, so the law now exists only as a screenshot in a group chat."
+ENTRY = "The committee that regulates AI, crypto, and the entire internet spent three hours debating a bill titled 'The Future of Technology,' then adjourned because nobody in the room could convert the final draft to PDF, so the law now exists only as a screenshot in a group chat."
 
 
 def main() -> None:
