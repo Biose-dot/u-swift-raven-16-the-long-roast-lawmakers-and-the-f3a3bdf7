@@ -1,6 +1,6 @@
 import os
 
-TEXT = "You want to regulate AI, crypto, and the entire internet, yet you just asked your intern to convert a PDF into a PDF, and your password is still 'password123' — maybe start by regulating your own inbox before you legislate the future."
+TEXT = "You want to write the laws for AI, crypto, and the whole internet, but you just emailed your assistant a screenshot of a Word document and asked them to 'make it a PDF again.' Regulate your own recycle bin first, then we'll talk about the future."
 
 def main():
     out_dir = os.environ.get("MAKEFUN_OUTPUT_DIR", "/output")
