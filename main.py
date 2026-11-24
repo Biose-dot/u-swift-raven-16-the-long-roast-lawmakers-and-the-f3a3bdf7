@@ -1,7 +1,7 @@
 import os
 
 
-ENTRY = "Lawmakers who want to regulate AI, crypto, and the entire internet but cannot convert a file to PDF should first pass a basic computer test, because a person who prints every email and calls IT to find the any key probably should not be writing the rules for machines smarter than their printer."
+ENTRY = "Before lawmakers regulate AI, crypto, and the internet, they should demonstrate they can convert a file to PDF without calling IT, printing the email, and asking their grandchild what a browser is, because rules written by people who fear the any key will only protect us from progress."
 
 
 def main():
