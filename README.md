@@ -10,9 +10,9 @@ One satirical sentence: the committee regulating AI, crypto and the internet adj
 
 `main.py` (Python 3, stdlib only) writes the entry to `/output/entry.txt`:
 
-> They wrote a 400-page bill to regulate AI, then asked their intern to convert it to PDF, and the intern — bless her — just printed it, photographed the pages with her phone, and emailed the photos back as a single 90-megabyte JPEG.
+> The committee that regulates AI, crypto, and the entire internet spent three hours debating a bill titled 'The Future of Technology,' then adjourned because nobody in the room could convert the final draft to PDF, so the law now exists only as a screenshot in a group chat.
 
-The text is 231 characters (UTF-8, within the 1–320 limit), one line, no trailing newline.
+The text is 273 characters (UTF-8, within the 1–320 limit), one line, no trailing newline.
 
 ## Run
 
